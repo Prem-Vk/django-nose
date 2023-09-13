@@ -2,4 +2,4 @@
 # Must be set in the RTD Admin, at:
 # https://readthedocs.org/dashboard/django-nose/advanced/
 Django
-nose
+nose2
